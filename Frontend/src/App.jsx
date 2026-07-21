@@ -2,7 +2,7 @@ import Navbar from "./component/navbar/navbar"
 import {Route, Routes,} from 'react-router-dom'
 import Cart from "./pages/Cart/Cart"
 import Home from "./pages/Home/Home"
-import PlaceOrder from "./pages/placeOrder/placeOrder"
+import PlaceOrder from "./pages/placeOrder/PlaceOrder"
 import Footer from "./component/footer/Footer"
 import { useState } from "react"
 import LoginPopup from "./component/LoginPopup/LoginPopup"
